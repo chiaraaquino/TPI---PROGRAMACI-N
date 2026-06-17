@@ -34,18 +34,16 @@ En el caso de los filtros, si no se encuentra coincidencia el programa imprime l
     3. "No se encontraron paises."
     4. "No se encontraron paises en este continente."
     5. "No se encontraron países en ese rango de superficie."
-
-#ENLACES
-Enlace al repositorio del proyecto 
-https://github.com/chiaraaquino/TPI---PROGRAMACI-N.git
-
-Enlace al video explicativo del proyecto 
-https://drive.google.com/file/d/1IBdpzKLEJ1eJBmvfKN_whc55bNWL2wd3/view?usp=sharing
-
-
-
+    
 # RESTRICCIÓN DE GUARDADO
 El programa se ejecuta con datos almacenados en la memoria. 
 
 Para que las modificaciones se guarden, se debe modificar el código para reescribir el archivo CSV.
 Por lo tanto, los cambios realizados se eliminan al salir del programa.  
+
+# ENLACES
+Enlace al repositorio del proyecto 
+https://github.com/chiaraaquino/TPI---PROGRAMACI-N.git
+
+Enlace al video explicativo del proyecto 
+https://drive.google.com/file/d/1IBdpzKLEJ1eJBmvfKN_whc55bNWL2wd3/view?usp=sharing
