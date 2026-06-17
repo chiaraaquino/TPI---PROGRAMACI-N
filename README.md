@@ -2,7 +2,7 @@
 
 Alumnas: Aquino Chiara Ayelen & Yazmin Dana Rodriguez
 
-Fecha de entrega: 15/06/2026
+Fecha de entrega: 17/06/2026
 
 Titulo del trabajo: Gestion de paises
 
