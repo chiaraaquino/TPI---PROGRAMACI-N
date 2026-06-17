@@ -35,6 +35,15 @@ En el caso de los filtros, si no se encuentra coincidencia el programa imprime l
     4. "No se encontraron paises en este continente."
     5. "No se encontraron países en ese rango de superficie."
 
+#ENLACES
+Enlace al repositorio del proyecto 
+https://github.com/chiaraaquino/TPI---PROGRAMACI-N.git
+
+Enlace al video explicativo del proyecto 
+https://drive.google.com/file/d/1IBdpzKLEJ1eJBmvfKN_whc55bNWL2wd3/view?usp=sharing
+
+
+
 # RESTRICCIÓN DE GUARDADO
 El programa se ejecuta con datos almacenados en la memoria. 
 
